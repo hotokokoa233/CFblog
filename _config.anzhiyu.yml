@@ -862,7 +862,7 @@ busuanzi:
 # Formal: Month/Day/Year Time or Year/Month/Day Time
 runtimeshow:
   enable: true
-  publish_date: 2025/11/08 00:00:00
+  publish_date: 2026/06/06 00:00:00
 
 # Console - Newest Comments
 newest_comments:
