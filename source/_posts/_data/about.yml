@@ -76,7 +76,7 @@
     game_tips: 爱好游戏
     game_title: Arknights · 明日方舟
     game_uid: "UID: 288817483"
-    game_bg: /website/Arknights.png
+    game_bg: /website/Arknights.jpg
   comic:
     comic_tips: 爱好角色
     comic_title:
@@ -103,12 +103,12 @@
     like_tips: 关注偏好
     like_title: 打游戏
     like_bg: /website/arknights/明日方舟/4.jpeg
-    like_bottom: 手机、电脑软硬件
+    like_bottom: 明日方舟  星穹铁道
   music:
     music_tips: 音乐偏好
     music_title: 日语、ACG
     music_bg: /website/arknights/明日方舟/5.jpeg
-    music_link: /music
+    music_link: https://www.bilibili.com/video/BV18T411G7xJ/?spm_id_from=333.337.search-card.all.click
   reward_list:
     - name: 筱子沫
       amount: 9999.99
