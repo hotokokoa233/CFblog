@@ -108,7 +108,7 @@
     music_tips: 音乐偏好
     music_title: 日语、ACG
     music_bg: /website/arknights/明日方舟/5.jpeg
-    music_link: https://www.bilibili.com/video/BV18T411G7xJ/?spm_id_from=333.337.search-card.all.click
+    music_link: /website/music/1.mp3
   reward_list:
     - name: 筱子沫
       amount: 9999.99
