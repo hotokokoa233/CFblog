@@ -14,8 +14,8 @@
 #      - 脚踏实地行动派 🏃
 #      - 团队小组发动机 🧱
 #      - 壮汉人狠话不多 💢
-  name: 顾拾柒
-  description: 是一名 全栈开发工程师
+  name: 筱子沫
+  description: 是一名 摸鱼混子
   aboutsiteTips:
     tips: 追求
     title1: 源于
@@ -48,7 +48,7 @@
     cover: https://bu.dusays.com/2023/05/01/644f4b037b930.jpg
   map:
     title: 我现在住在
-    StrengthenTitle: 中国，无锡市
+    StrengthenTitle: 中国，盐城市
     background: https://bu.dusays.com/2023/07/05/64a4c61cb20ef.jpg
     backgroundDark: https://bu.dusays.com/2023/07/05/64a4c63495ac5.jpg
   selfInfo:
@@ -110,7 +110,7 @@
     music_bg: https://p2.music.126.net/Mrg1i7DwcwjWBvQPIMt_Mg==/79164837213438.jpg
     music_link: /music
   reward_list:
-    - name: 顾拾柒
+    - name: 筱子沫
       amount: 9999.99
-      datatime: 2025-04-28
+      datatime: 2026-06-08
       suffix: RMB
