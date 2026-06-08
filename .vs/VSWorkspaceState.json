@@ -2,15 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\source",
+    "\\source\\about",
+    "\\source\\categories",
+    "\\source\\essay",
+    "\\source\\link",
+    "\\source\\tags",
     "\\source\\_posts",
-    "\\source\\_posts\\4.HomeLab",
-    "\\source\\_posts\\4.HomeLab\\1.ProxmoxVE",
-    "\\themes",
-    "\\themes\\anzhiyu",
-    "\\themes\\anzhiyu\\source",
-    "\\themes\\anzhiyu\\source\\img",
-    "\\themes\\anzhiyu\\source\\img\\orange_siteicon"
+    "\\source\\_posts\\5.Docker",
+    "\\themes"
   ],
-  "SelectedNode": "\\themes\\anzhiyu\\_config.yml",
+  "SelectedNode": "\\_config.anzhiyu.yml",
   "PreviewInSolutionExplorer": false
 }

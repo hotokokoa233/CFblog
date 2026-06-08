@@ -67,8 +67,8 @@ copy:
 # formal:
 #   name: link || icon
 social:
-   Github: https://github.com/jianglinper || anzhiyu-icon-github
-   Gitee: https://gitee.com/olinl || anzhiyu-icon-fish
+   Github: https://hotokokoa233.github.io || anzhiyu-icon-github
+   bilibili: https://space.bilibili.com/289969440 || anzhiyu-icon-fish
 
 # 作者卡片 状态
 author_status:
@@ -535,8 +535,6 @@ footer:
         text: 主题
       # - link: https://image.anheyu.com
       #   text: 图床
-      - link: https://beian.miit.gov.cn/
-        text: 苏ICP备2022020192号
     subTitle:
       enable: true
       # Typewriter Effect (打字效果)
