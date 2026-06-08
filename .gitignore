@@ -8,3 +8,10 @@ public/
 _multiconfig.yml
 workspace.json
 workspace-mobile.json
+
+# wrangler files
+.wrangler
+.dev.vars*
+!.dev.vars.example
+.env*
+!.env.example
